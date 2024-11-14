@@ -1,0 +1,6 @@
+[submodule "PruebaGrupoLagosBackend"]
+	path = PruebaGrupoLagosBackend
+	url = https://github.com/oancasdis/PruebaGrupoLagosBackend.git
+[submodule "PruebaGrupoLagosFrontend"]
+	path = PruebaGrupoLagosFrontend
+	url = https://github.com/oancasdis/PruebaGrupoLagosFrontend.git
