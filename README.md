@@ -1,5 +1,5 @@
 
-# PruebaGrupoLagos
+# Prueba Grupo Lagos
 
 Este proyecto consiste en una aplicación con frontend y backend separados. La aplicación utiliza Angular para el frontend y Spring Boot para el backend. Aquí te mostramos cómo clonar, instalar dependencias, compilar y ejecutar el proyecto con Docker Compose.
 
